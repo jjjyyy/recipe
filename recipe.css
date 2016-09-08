@@ -1,0 +1,35 @@
+body{
+  background-image:url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie.jpg)
+  color:#404040
+  font-family: Century Gothic, Futura, Verdana, sans-serif font
+  font-size:11pt
+}
+h1{
+  background-color:#F0F0F0
+  font-weight:bold
+  font-size:22pt
+  font-family: Century Gothic, Futura, Verdana, sans-serif font
+  color:#A4A400
+  text-align:center
+  text-decoration:underline
+  }
+span.highlight
+{
+  font-weight:bold
+}
+h2{
+  background-color:#F0F0F0
+  font-size:18pt
+  font-family: Century Gothic, Futura, Verdana, sans-serif font
+  color:#A4A400
+  text-decoration:underline
+}
+p{
+  padding-left:2cm
+  background-color: #FFFFC8
+  font-style:italic
+}
+h3{
+  color:#A4A400
+  text-decoration:underline
+}
