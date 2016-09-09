@@ -5,6 +5,7 @@ body{
   font-size:11pt;
 }
 h1{
+  letter-spacing: .2em;
   background-color:#F0F0F0;
   font-weight:bold;
   font-size:22pt;
@@ -18,6 +19,7 @@ span.highlight
   font-weight:bold;
 }
 h2{
+  letter-spacing: .2em;
   background-color:#F0F0F0;
   font-size:18pt;
   font-family: Century Gothic, Futura, Verdana, sans-serif font;
@@ -25,10 +27,12 @@ h2{
   text-decoration:underline;
 }
 p{
-  padding-left:40px;
-  background-color: #FFFFC8;40px;
+  MARGIN-right:40px;
+  MARGIN-left:40px;
+  background-color: #FFFFC8;
   font-style:italic;
 }
+a{ color:#A4A400; }
 a:link {color:#A4A400;}
 h3{
   color:#A4A400;
